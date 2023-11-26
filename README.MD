@@ -31,7 +31,7 @@ I am a Junior Developer passionate about building and exploring a world i've nev
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=swift&border_radius=2)](https://github.com/anuraghazra/github-readme-stats)
 
-## Features Repositories
+## Featured Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mangadi3859&repo=youtube-block-bypass-extension&theme=swift&border_radius=2)](https://github.com/mangadi3859/youtube-block-bypass-extension)
 
