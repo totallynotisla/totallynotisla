@@ -33,6 +33,9 @@ I am a Junior Developer passionate about building and exploring a world i've nev
 
 ## Featured Repositories
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mangadi3859&repo=nhentai-downloader&theme=swift&border_radius=2)](https://github.com/mangadi3859/nhentai-downloader)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mangadi3859&repo=youtube-block-bypass-extension&theme=swift&border_radius=2)](https://github.com/mangadi3859/youtube-block-bypass-extension)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mangadi3859&repo=doujin2&theme=swift&border_radius=2)](https://github.com/mangadi3859/doujin2)
