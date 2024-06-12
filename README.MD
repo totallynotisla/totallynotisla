@@ -29,7 +29,7 @@ I am a Junior Developer passionate about building and exploring a world i've nev
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=swift&border_radius=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangadi3859&theme=swift&border_radius=2)]
 
 ## Featured Repositories
 
