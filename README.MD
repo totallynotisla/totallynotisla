@@ -29,7 +29,7 @@ I am a Junior Developer passionate about building and exploring a world i've nev
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangadi3859&theme=swift&border_radius=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=totallynotisla&theme=swift&border_radius=2)
 
 ## Featured Repositories
 
